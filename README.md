@@ -1,7 +1,5 @@
 # Rustique
 
-![rustiqueblacklogo](https://user-images.githubusercontent.com/68924836/133939621-4899f1eb-0226-4452-bbbe-66dec627a328.png)
-
 ## [Website](https://kylefontenot.github.io/Rustique/)
 
 ![RustiqueScreenCapFull](https://user-images.githubusercontent.com/68924836/133937937-f83a07c3-29a1-4008-90a1-dea78365592c.png)
