@@ -1,8 +1,8 @@
 # Rustique
 
-[Website](https://kylefontenot.github.io/Rustique/)
+## [Website](https://kylefontenot.github.io/Rustique/)
 
-[![SCSS](https://img.shields.io/badge/-SCSS-blueviolet)](https://img.shields.io/badge/-SCSS-blueviolet)
+[![HTML](https://img.shields.io/badge/-HTML-orange)](https://img.shields.io/badge/-SCSS-blueviolet) [![SCSS](https://img.shields.io/badge/-SCSS-blueviolet)](https://img.shields.io/badge/-SCSS-blueviolet) 
 
 ## Overview
 A hard mockup for a simple brochure website for a real family business. Created simply with HTML and CSS. Links are disabled, and the site is flat as prototyping the design was the focus. Complete branding including logo creation was involved.
