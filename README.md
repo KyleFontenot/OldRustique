@@ -6,7 +6,7 @@
 
 
 [![HTML](https://img.shields.io/badge/-HTML-orange)](https://img.shields.io/badge/-SCSS-blueviolet) [![SCSS](https://img.shields.io/badge/-SCSS-blueviolet)](https://img.shields.io/badge/-SCSS-blueviolet) 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
 ## Overview
