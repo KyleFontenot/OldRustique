@@ -2,6 +2,9 @@
 
 ## [Website](https://kylefontenot.github.io/Rustique/)
 
+![RustiqueScreenCapFull](https://user-images.githubusercontent.com/68924836/133937937-f83a07c3-29a1-4008-90a1-dea78365592c.png)
+
+
 [![HTML](https://img.shields.io/badge/-HTML-orange)](https://img.shields.io/badge/-SCSS-blueviolet) [![SCSS](https://img.shields.io/badge/-SCSS-blueviolet)](https://img.shields.io/badge/-SCSS-blueviolet) 
 
 ## Overview
