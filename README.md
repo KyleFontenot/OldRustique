@@ -1,11 +1,15 @@
 # Rustique
 
+![rustiqueblacklogo](https://user-images.githubusercontent.com/68924836/133939621-4899f1eb-0226-4452-bbbe-66dec627a328.png)
+
 ## [Website](https://kylefontenot.github.io/Rustique/)
 
 ![RustiqueScreenCapFull](https://user-images.githubusercontent.com/68924836/133937937-f83a07c3-29a1-4008-90a1-dea78365592c.png)
 
 
 [![HTML](https://img.shields.io/badge/-HTML-orange)](https://img.shields.io/badge/-SCSS-blueviolet) [![SCSS](https://img.shields.io/badge/-SCSS-blueviolet)](https://img.shields.io/badge/-SCSS-blueviolet) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 
 ## Overview
 A hard mockup for a simple brochure website for a real family business. Created simply with HTML and CSS. Links are disabled, and the site is flat as prototyping the design was the focus. Complete branding including logo creation was involved.
