@@ -1,0 +1,95 @@
+
+
+@import './sass/milligram';
+@import url('https://fonts.googleapis.com/css?family=Enriqueta|Vast+Shadow');
+@font-face {
+  font-family: 'Burford';
+  src: url('../burfordline.otf');
+}
+@font-face {
+  font-family: 'BurfordRusticBook';
+  src: url('../burfordrusticbook.otf');
+}
+@import url('https://fonts.googleapis.com/css?family=Glegoo:400,700');
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+
+
+@media(max-width:375px){}
+  /*  Breakpoint for Mobile-M  */
+@media(min-width:376px){}
+
+
+@media(max-width:425px){}
+/*  Breakpoint for Mobile-L  */
+@media(min-width:375px){}
+
+@media(max-width:639px){}
+@media(min-width:640px){}
+
+
+@media(max-width:768px){nav{position:fixed;height:100%;width:100%;background:url(../img/darkwood.jpg);}
+#logo{background-image:url('../img/rustiquewhitelogo-horizontal.png');margin:2rem auto auto auto;text-align:center;background-size:contain;width:80%;min-height:420px;background-repeat:no-repeat;background-position:center;}
+.navbottom{display:none;}.navul{position:relative;display:flex;flex-flow:row;text-align:center;}.navul a{flex:1 1 auto;}
+main{position:absolute;top:55rem;z-index:5;margin-left:0.5rem;margin-right:0.5rem;}
+}
+/*  Breakpoint for Tablets  */
+@media(min-width:769px){
+  nav{width:400px;position:fixed;left:0;background:url(../img/darkwoodnarrow.jpg);height:100vh;
+  box-shadow: inset -10px 0 80px -10px #1d1d1d;transition:box-shadow 0.4s;}nav:hover{box-shadow:none;}
+  /*main{box-shadow: inset 10px 0 80px -10px #111;transition:box-shadow 0.3s;}main:hover{box-shadow:none;}*/
+  nav a {color:white;}
+  #logo{margin:1rem 20px 0 20px;background-image:url('../img/rustiquewhitelogo.png');background-size:fill;width:350px;height:400px;}
+  main{position:absolute;left:400px;width:calc(100% - 400px);min-height:100%;background-repeat:repeat-y;}
+  .navul{margin-left:auto;margin-right:auto;margin-top:1rem;width:300px;text-align:center;}
+  .navlink{width:300px;line-height:8rem;transition:background-color 0.2s, color 0.2s, box-shadow 0.2s;border-radius:5px;padding-bottom:10px;}
+  .navlink:hover{background-color:white;color:#000;box-shadow:0 30px 20px -20px #1d1d1d;}
+  .navp{position:absolute;bottom:50px;margin-left:auto;margin-right:auto;text-align:center;font-size:3rem;}
+  .navbottom{position:absolute;bottom:0rem;}
+
+}
+
+
+@media(max-width:1024px){}
+  /* Breakpoint for Desktop +  */
+@media(min-width:1025px){}
+
+// Milligram's defaults
+/* h1 {4.6rem;}h2 {3.6rem;}h3 {2.8rem;}h4 {2.2rem;}h5 {1.8rem;}h6 {1.6rem;}*/
+*{font-family:'Glegoo';font-size:1.6rem;line-height:1.4;letter-spacing:1px;}
+h1{font-family:'BurfordRusticBook';font-size:3.5rem;color:#222;}
+h2{font-family:'BurfordRusticBook';font-size:3rem;color:#444;}
+.row-white{background-color:rgba(255,255,255,0.8);}
+h4{font-family:'Glegoo';font-size:1.7rem;}
+body {line-height:1;}
+#navemail{font-family:'Burford';font-size:2.3rem;}
+.row{padding:3rem;}
+nav {color:white;}
+#logo{display:block;}
+.photocolumn{display: flex;
+    flex: 1 2 auto!important;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;min-height:400px;
+    background-size:cover;background-position:center;background-repeat:no-repeat;
+  transition: flex 0.5s;}
+    .photocolumn:hover{flex:2 1 auto!important;}
+.photo{object-fit:cover;min-height:100%;min-width:100%;}
+.photogrow{flex:2 1 auto!important;}
+#photo1{background-image:url('../img/photos/1.jpg');}
+#photo2{background-image:url('../img/photos/2.jpg');}
+#photo3{background-image:url('../img/photos/3.jpg');}
+#photo4{background-image:url('../img/photos/4.jpg');}
+#photo5{background-image:url('../img/photos/5.jpg');}
+#photo6{background-image:url('../img/photos/6.jpg');}
+#photo7{background-image:url('../img/photos/7.jpg');}
+#photo8{background-image:url('../img/photos/8.jpg');}
+#photo9{background-image:url('../img/photos/9.jpg');}
+.row-py-0{padding-top:0;padding-bottom:0;}
+main {background:url(../img/whitewood.jpg);color:#1d1d1d;font-size:2.6rem;}
+
+.review{padding:5rem;color:black;} .review p {font-family:'Bad Script';text-indent:5rem;letter-spacing:1px;margin-bottom:0;font-size:1.9rem;}
+.review h2 {text-align:right;margin-bottom:5px;}.review h4 {text-align:right;letter-spacing:1px;}
+
+.navlink{color:white;list-style-type:none;font-size:3rem;font-family:'Burford';}
+.navbottom{font-size:2.2rem;}
+a:hover{color:#ddd;}
